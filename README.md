@@ -8,7 +8,7 @@ Your voice never leaves your Mac.
 - Requires Apple Silicon, macOS 14+. AI formatting needs a Mac with Apple Intelligence (macOS 26+).
 - This repository hosts release binaries only. The app source is private.
 
-Website: https://thinka.app
+Website: https://thinka.tech
 
 ---
 
