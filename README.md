@@ -1,30 +1,18 @@
-<p align="center">
-  <a href="https://github.com/syam4869/thinka-voice-releases/releases/latest">
-    <img src="assets/hero.png" alt="ThinkaVoice — 話す速さで、書ける。Mac用のAI音声入力" width="100%">
-  </a>
-</p>
+<a href="https://github.com/syam4869/thinka-voice-releases/releases/latest"><img src="assets/hero.png" alt="ThinkaVoice。話すだけで、文字になる。Mac用の音声入力アプリで、音声の処理はMacの中で完結します" width="100%"></a>
 
-<p align="center">
-  <a href="https://github.com/syam4869/thinka-voice-releases/releases/latest/download/ThinkaVoice.dmg">
-    <img src="assets/button.png" alt="Mac版をダウンロード(無料)" height="64">
-  </a>
-  <br>
-  <sub>macOS 14以降・Apple Silicon・<a href="https://github.com/syam4869/thinka-voice-releases/releases">リリース一覧</a>・<a href="#english">English</a></sub>
-</p>
+<a href="https://github.com/syam4869/thinka-voice-releases/releases/latest/download/ThinkaVoice.dmg"><img src="assets/button.png" alt="Mac版をダウンロード(無料・12MB)" height="60"></a>
 
-<br>
+<sub>macOS 14以降・Apple Silicon・<a href="https://github.com/syam4869/thinka-voice-releases/releases">リリース一覧</a>・<a href="#english">English</a></sub>
 
 ThinkaVoiceは、話した言葉をそのままカーソルの位置に入力するMac用のアプリです。メモでも、メールでも、Slackでも、文字を打てる場所ならどこでも使えます。
 
 音声の認識も文章の整形も、Macの中で行います。録音した声がサーバーに送られることはありません。
 
-## 使い方
+<img src="assets/howto.png" alt="使い方。fnを押す、話す、離すの3つで、整った文章がカーソルの位置に入る" width="100%">
 
-<img src="assets/howto.png" alt="Fnを押して、話して、離すと、整った文章がカーソルの位置に入る" width="100%">
+<img src="assets/context.png" alt="開いているアプリに合わせて整える。同じ話し言葉が、メールでは丁寧に、チャットでは軽く、エディタでは記号を残した形になる" width="100%">
 
 ## できること
-
-<img src="assets/context.png" alt="同じ話し言葉が、メールでは敬語に、チャットでは話し言葉に、エディタでは記号を残した形に整う" width="100%">
 
 | 機能 | 内容 |
 |---|---|
@@ -81,4 +69,8 @@ AppleのNotarizationを通した署名済みのビルドなので、そのまま
 
 ---
 
-<sub>このリポジトリは署名済みのビルドを配るためのものです。アプリのソースコードは公開していません。ThinkaVoiceは<a href="https://thinka.tech">Thinka</a>がつくっています。</sub>
+## つくった会社
+
+ThinkaVoiceは[Thinka](https://thinka.tech)が企画してつくり、配布しています。Thinkaは、アプリとWebサービスの開発を受けている会社です。
+
+<sub>このリポジトリは署名済みのビルドを配るためのものです。アプリのソースコードは公開していません。</sub>
